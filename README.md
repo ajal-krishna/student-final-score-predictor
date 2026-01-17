@@ -150,3 +150,13 @@ Beginner Machine Learning Enthusiast 🚀
 ---
 
 ⭐ If you like this project, don’t forget to star the repository!
+
+
+## 📸 Project Outputs
+
+### 🔹 Output Screenshot 1
+![Screenshot Output 1](screenshot_output1.png)
+
+### 🔹 Output Screenshot 2
+![Screenshot Output 2](screenshot_output2.png)
+
