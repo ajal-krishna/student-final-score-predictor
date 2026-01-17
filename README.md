@@ -79,6 +79,7 @@ The model learns relationships between attendance, internal assessments, assignm
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 (https://colab.research.google.com/github/ajal-krishna/student-final-score-predictor/blob/main/student_score_predictor.ipynb)
 
+
    ```
 
 2. Upload the dataset file `Final_Marks_Data (1).csv`
