@@ -158,5 +158,5 @@ Beginner Machine Learning Enthusiast 🚀
 ![Screenshot Output 1](ss/Screenshot output1.png)
 
 ### 🔹 Output Screenshot 2
-![Screenshot Output 2](screenshot_output2.png)
+![Screenshot Output 2](ss/Screenshot output2.png)
 
