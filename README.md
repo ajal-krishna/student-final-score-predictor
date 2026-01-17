@@ -73,10 +73,12 @@ The model learns relationships between attendance, internal assessments, assignm
 ### Option 1: Run in Google Colab (Recommended)
 
 1. Open the notebook in Google Colab
-   *(Replace the link below after uploading to GitHub)*
+   
 
    ```
-  [ https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPOSITORY/blob/main/Student_Final_Score_Predictor.ipynb](https://github.com/ajal-krishna/student-final-score-predictor/blob/main/student_score_predictor.ipynb)
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/ajal-krishna/student-final-score-predictor/blob/main/student_score_predictor.ipynb)
+
    ```
 
 2. Upload the dataset file `Final_Marks_Data (1).csv`
