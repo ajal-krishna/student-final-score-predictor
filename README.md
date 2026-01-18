@@ -155,8 +155,8 @@ Beginner Machine Learning Enthusiast 🚀
 ## 📸 Project Outputs
 
 ### 🔹 Output Screenshot 1
-![Screenshot Output 1](ss/Screenshot output1.png)
+ss/Screenshot output1.png
 
 ### 🔹 Output Screenshot 2
-![Screenshot Output 2](ss/Screenshot output2.png)
+ss/Screenshot output2.png
 
